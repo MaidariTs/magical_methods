@@ -1,2 +1,2 @@
 # magical_methods
-test mm
+testing magical methods
