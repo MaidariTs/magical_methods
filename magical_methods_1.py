@@ -1,3 +1,11 @@
+"""
+from dataclasses import dataclass
+
+Декоратор dataclass автоматически добавляет специальные методы, такие как:
+__init__() и __repr__() в определямые пользователем классы.
+"""
+
+
 class Car:
     # метод-конструктор класса __init__()
     def __init__(self, make, model, price):
